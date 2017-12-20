@@ -1,3 +1,5 @@
+http://umbraco-rc.azurewebsites.net/
+
 # Umbraco Documentation project
 
 # Reading & using the docs
